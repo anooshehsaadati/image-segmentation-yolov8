@@ -1,0 +1,7 @@
+*.pt
+*.mp4
+*.zip
+
+/models/
+/runs/
+/All runs/
