@@ -1,6 +1,6 @@
-path: /home/phillip/Desktop/todays_tutorial/41_image_segmentation_yolov8/code/data
+path: /content/drive/MyDrive/Thesis/Segmentation/YOLO/image-segmentation-yolov8/output
 train: images/train 
 val: images/val  
 
-nc: 1
-names: ['duck']
+nc: 4
+names: ['red_cube', 'blue_cube', 'green_cube', 'yellow_cube']
